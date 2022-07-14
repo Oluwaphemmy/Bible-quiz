@@ -82,7 +82,7 @@ function handleStartButton() {
     // Change background for questions
     $("body").css(
       "background-image",
-      "url(images/aaron-burden-320238-unsplash.jpg)"
+     // "url(images/aaron-burden-320238-unsplash.jpg)"
     );
   });
 }
@@ -262,7 +262,7 @@ function handleResetButton() {
     // Change Background for Home screen
     $("body").css(
       "background-image",
-      "url(images/aaron-burden-759770-unsplash.jpg)"
+     // "url(images/aaron-burden-759770-unsplash.jpg)"
     );
   });
 }

@@ -261,4 +261,103 @@ export const QUESTIONS = [
     correctAnswer: `Bethsheba`,
     bibleText: ` 2 samuel 11`,
   },
+  {
+    // Question 31
+    question: `What prophet came to rebuke David?`,
+    answers: [`Elijah`, `Elisha`, `Nathan`, `Samuel`],
+    correctAnswer: `Nathan`,
+    bibleText: ` 2 samuel 12`,
+  },
+  {
+    // Question 32
+    question: `Who was David son that started a rebelion against him?`,
+    answers: [`Absalom`, `Uriah`, `Adonijah`, `Reuben`],
+    correctAnswer: `Absalom`,
+    bibleText: ` 2 samuel 15`,
+  },
+  {
+    // Question 33
+    question: `What famous queen  came to visit Solomon?`,
+    answers: [
+      `Queen of Jerusalem`,
+      `Queen of Cannaan`,
+      `Queen of Babylon`,
+      `Queen of sheba`,
+    ],
+    correctAnswer: `Queen of sheba`,
+    bibleText: ` 1 kings 10`,
+  },
+  {
+    // Question 34
+    question: `Who was the last king Daniel served under?`,
+    answers: [`Meshac`, `Jarius`, `Nebuchadnezzer`, `Darius`],
+    correctAnswer: `Darius`,
+    bibleText: ` Daniel 6 : 1- 28`,
+  },
+  {
+    // Question 35
+    question: `What were the babylonian names of Daniel 3 friends?`,
+    answers: [
+      `Meshach,Caleb and Abednego`,
+      `Abednego, Shadrach and Joab`,
+      `Jael, Shadrach and Meshach`,
+      `Shadrach, Meshach and Abednego`,
+    ],
+    correctAnswer: `Shadrach, Meshach and Abednego`,
+    bibleText: ` Daniel 3 : 8-30`,
+  },
+  {
+    // Question 36
+    question: `Who returned to isreal to build the walls of Jerusalem?`,
+    answers: [`Habakkuk`, `Hosea`, `Zacharia`, `Nehemiah`],
+    correctAnswer: `Nehemiah`,
+    bibleText: ` Nehemiah 1`,
+  },
+  {
+    // Question 37
+    question: `Name the City Jesus was born?`,
+    answers: [`Zion`, `Bethlehem`, `Jerusalem`, `Nazareth`],
+    correctAnswer: `Bethelehem`,
+    bibleText: `Matthew 2 :1`,
+  },
+  {
+    // Question 38
+    question: `Name Jesus hometown?`,
+    answers: [`Zion`, `Bethlehem`, `Jerusalem`, `Nazareth`],
+    correctAnswer: `Nazareth`,
+    bibleText: ` Luke 4 :16`,
+  },
+  {
+    // Question 39
+    question: `How many days was Lazarus dead before Jesus came to visit?`,
+    answers: [`5 days`, `2 days`, `3 days`, `4 days`],
+    correctAnswer: `4 days`,
+    bibleText: `John 11 :17`,
+  },
+  {
+    // Question 40
+    question: `Whats the name of the demon Jesus cast out in the region of  Gerasenes?`,
+    answers: [`Belial`, `Persia`, `Belzubub`, `legion`],
+    correctAnswer: `Legion`,
+    bibleText: ` Mark 5 : 1-20`,
+  },
+  {
+    // Question 41
+    question: `Name the two old testament people who appeared when Jesus was transfigured?`,
+    answers: [
+      `Moses and David`,
+      `Elijah and Elisha`,
+      `Moses and Elijah`,
+      `Moses and Elisha`,
+    ],
+    correctAnswer: `Moses and Elijah`,
+    bibleText: ` Matthew 17:3`,
+  },
+  {
+    // Question 42
+    question: `Who is the Roman governor who sat over Jesus trial?`,
+    answers: [`Herodias`, `Cornelius`, `Herod`, `Pilate`],
+    correctAnswer: `Pilate`,
+    bibleText: ` Matthew 27:2`,
+  },
 ];
