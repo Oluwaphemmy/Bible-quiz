@@ -253,4 +253,12 @@ export const QUESTIONS = [
     correctAnswer: `Bethsheba`,
     bibleText: ` 2 samuel 11`,
   },
+
+  {
+    // Question 30
+    question: `Which woman did David commit adultery with?`,
+    answers: [`Ahinoam`, `Mariam`, `Bethsheba`, `Abigail`],
+    correctAnswer: `Bethsheba`,
+    bibleText: ` 2 samuel 11`,
+  },
 ];
