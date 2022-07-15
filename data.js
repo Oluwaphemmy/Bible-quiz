@@ -360,4 +360,54 @@ export const QUESTIONS = [
     correctAnswer: `Pilate`,
     bibleText: ` Matthew 27:2`,
   },
+
+  {
+    // Question 43
+    question: `Who preached at pentecost?`,
+    answers: [`James`, `Paul`, `John`, `Peter`],
+    correctAnswer: `Peter`,
+    bibleText: ` Acts 2 : 14-41`,
+  },
+
+  {
+    // Question 44
+    question: `Which apotle shared the Gospel with an Ethiopian official on the road to Gaza?`,
+    answers: [`Stephen`, `Paul`, `Peter`, `Philip`],
+    correctAnswer: `Philip`,
+    bibleText: ` Acts 8 :28-40`,
+  },
+
+  {
+    // Question 45
+    question: `In what city were Jesus followers first called christian?`,
+    answers: [`Jerusalem`, `Antioch`, `Rome`, `Carpaunum`],
+    correctAnswer: `Antioch`,
+    bibleText: ` Acts 11 :26`,
+  },
+
+  {
+    // Question 46
+    question: `Who were Noah's three sons?`,
+    answers: [
+      `Japheth, Seth and Abel`,
+      `Abel, Shem and Ham`,
+      `Ham, Abel and Japheth`,
+      `Shem,Ham and Japheth`,
+    ],
+    correctAnswer: `Shem, Ham and Japheth`,
+    bibleText: ` Gen 9 :23`,
+  },
+
+  {
+    // Question 47
+    question: `Who asked for Jesus body after he was crucified?`,
+    answers: [
+      `Joseph of Arimathea`,
+      `Joseph of Bethlehem`,
+      `Joseph of Ethiopia`,
+      `Joseph of Nazareth`,
+    ],
+    correctAnswer: `Joseph of Arimathea  `,
+    bibleText: ` Matthew 15 :43 `,
+  },
 ];
