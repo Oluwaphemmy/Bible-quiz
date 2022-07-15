@@ -410,4 +410,110 @@ export const QUESTIONS = [
     correctAnswer: `Joseph of Arimathea  `,
     bibleText: ` Matthew 15 :43 `,
   },
+  {
+    // Question 48
+    question: `Who wrote the book of revelation?`,
+    answers: [`Peter`, `Paul`, `John`, `Timothy`],
+    correctAnswer: `John  `,
+    bibleText: ` Revelation 1 : 4 `,
+  },
+  {
+    // Question 49
+    question: `Who worked as a tax collector prior to becoming a disciple?`,
+    answers: [`Matthew`, `Philip`, `Andrew`, `Batholomew`],
+    correctAnswer: `Matthew`,
+    bibleText: ` Matthew 9 : 9-13`,
+  },
+  {
+    // Question 50
+    question: `What is the name of the village where Jesus turned water to wine?`,
+    answers: [
+      `Cana of Jerusalel`,
+      `Canaan of Nazareth`,
+      `Jerusalem`,
+      `Cana of Galilee`,
+    ],
+    correctAnswer: `Cana of Galilee`,
+    bibleText: ` John 2 : 11`,
+  },
+  {
+    // Question 51
+    question: `Which prophet is known for turning his rod into a bronze snake?`,
+    answers: [`Aaron`, `Elijah`, `Moses`, `Samuel`],
+    correctAnswer: `Moses`,
+    bibleText: ` Exodus 4 :2`,
+  },
+  {
+    // Question 52
+    question: `What did God divide when he created the earth?`,
+    answers: [
+      `The light from darkness`,
+      `The moon from star`,
+      `Water from land`,
+      `Ocean from land`,
+    ],
+    correctAnswer: `The light from darkness`,
+    bibleText: `Gen 1 :4`,
+  },
+  {
+    // Question 53
+    question: `Who among these was the wife of Jacob?`,
+    answers: [`Leah`, `Rebekah`, `Dinar`, `Tabitha`],
+    correctAnswer: `Leah`,
+    bibleText: ` Gen 29 : 17`,
+  },
+  {
+    // Question 54
+    question: `What is the name of the first queen of Xerxes?`,
+    answers: [`Esther`, `Jezebel`, `Vashti`, `Abigail`],
+    correctAnswer: `Vashti`,
+    bibleText: ` Esther 1`,
+  },
+
+  {
+    // Question 55
+    question: `What was the hebrew name of Esther?`,
+    answers: [`Beulah`, `Havilla`, `Ruby`, `Hadassah`],
+    correctAnswer: `Hadassah`,
+    bibleText: ` Esther 2 :7`,
+  },
+
+  {
+    // Question 56
+    question: `Who was the father of Samuel?`,
+    answers: [`Nimrod`, `Abinadab`, `Elkanah`, `Jesse`],
+    correctAnswer: `Elkanah`,
+    bibleText: ` 1 samuel 1 :1`,
+  },
+
+  {
+    // Question 57
+    question: `After the philistines captured the ark of God, they took it from Ebenezer to where?`,
+    answers: [`Gibeon`, `Gilead`, `Jerusalem`, `Ashdod`],
+    correctAnswer: `Ashdod`,
+    bibleText: `1 samuel 5 : 1`,
+  },
+  {
+    // Question 58
+    question: `What was the name of Samuel's first born?`,
+    answers: [`Joab`, `Jephtah`, `Joel`, `Jonah`],
+    correctAnswer: `Joel`,
+    bibleText: ` 1 samuel 8 : 2`,
+  },
+
+  {
+    // Question 59
+    question: `Whats the name of Saul's daughter that married David?`,
+    answers: [`Abiel`, `Kish`, `Michal`, `Dorcas`],
+    correctAnswer: `Michal`,
+    bibleText: ` 1 samuel 18; 20 `,
+  },
+
+  {
+    // Question 60
+    question: `What is the name of Nabal's wife?`,
+    answers: [`Mariam`, `Anna`, `Bethsheba`, `Abigail`],
+    correctAnswer: `Abigail`,
+    bibleText: ` 1 samuel 25 `,
+  },
 ];
