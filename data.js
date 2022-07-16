@@ -516,4 +516,82 @@ export const QUESTIONS = [
     correctAnswer: `Abigail`,
     bibleText: ` 1 samuel 25 `,
   },
+
+  {
+    // Question 61
+    question: `Samuel is after which book of the bible?`,
+    answers: [`Ruth`, `Joshua`, `Chronicles`, `Judges`],
+    correctAnswer: `Ruth`,
+    bibleText: ` 1 samuel 1 `,
+  },
+
+  {
+    // Question 62
+    question: `How many sons did Jesse have?`,
+    answers: [`12`, `5`, `9`, `8`],
+    correctAnswer: `8`,
+    bibleText: ` 1 samuel 17:40 `,
+  },
+  {
+    // Question 63
+    question: `The account of Adam and Eve's disobedience was recorded in what chapter in Genesis?`,
+    answers: [`4`, `3`, `2`, `1`],
+    correctAnswer: `3`,
+    bibleText: ` Genesis 3 `,
+  },
+
+  {
+    // Question 64
+    question: `How old was Methuselah before he died?`,
+    answers: [`965`, `967`, `968`, `969`],
+    correctAnswer: `969`,
+    bibleText: ` Genesis 5 : 27 `,
+  },
+
+  {
+    // Question 65
+    question: `Adam lived for how many years?`,
+    answers: [`900 years`, `920 years`, `940 years`, `930years`],
+    correctAnswer: `930 years`,
+    bibleText: ` Genesis 5 : 5 `,
+  },
+  {
+    // Question 66
+    question: `The ark of Noah rested on which mountain?`,
+    answers: [`Patmos`, `Ura`, `Camel`, `Ararat`],
+    correctAnswer: `Ararat`,
+    bibleText: ` Genesis 8 :4 `,
+  },
+
+  {
+    // Question 67
+    question: `How many wives did Jacob have?`,
+    answers: [`4`, `3`, `1`, `2`],
+    correctAnswer: `2`,
+    bibleText: ` Genesis 30 `,
+  },
+
+  {
+    // Question 68
+    question: `Who was the father of Abraham?`,
+    answers: [`Terah`, `Nimrod`, `Laban`, `Abimelek`],
+    correctAnswer: `Terah`,
+    bibleText: `Genesis 11:26 `,
+  },
+
+  {
+    // Question 69
+    question: `What is the name of Jacob only daughter?`,
+    answers: [`Dinar`, `Leah`, `Dianna`, `Suzzanna`],
+    correctAnswer: `Dinar`,
+    bibleText: ` Genesis 34 :1 `,
+  },
+
+  {
+    // Question 70
+    question: `What is the name of Moses first son?`,
+    answers: [`Jochebed`, `Jethro`, `Gerar`, `Gershom`],
+    correctAnswer: `Gershom`,
+    bibleText: ` Exodus 2 : 22 `,
+  },
 ];
