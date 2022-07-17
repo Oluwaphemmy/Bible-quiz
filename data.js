@@ -594,4 +594,79 @@ export const QUESTIONS = [
     correctAnswer: `Gershom`,
     bibleText: ` Exodus 2 : 22 `,
   },
+  {
+    // Question 71
+    question: `What is the name of Naomi's husband who died?`,
+    answers: [`Elimelech`, `Gera`, `Edom`, `Obed`],
+    correctAnswer: `Elimelech`,
+    bibleText: ` Ruth 1 : 2 `,
+  },
+
+  {
+    // Question 72
+    question: `What nationality is Ruth?`,
+    answers: [`Judea`, `Moabite`, `Jerusalem`, `Isreal`],
+    correctAnswer: `Moabite`,
+    bibleText: ` Ruth 1 : 22 `,
+  },
+
+  {
+    // Question 73
+    question: `What was the name of  Naomi's other daughter-in-law, besides ruth?`,
+    answers: [`Dianna`, `Oma`, `Oprah`, `Orpha`],
+    correctAnswer: `Orpha`,
+    bibleText: ` Ruth 2 : 9 `,
+  },
+
+  {
+    // Question 74
+    question: `How many chapters are in the book of John?`,
+    answers: [`22`, `18`, `21`, `20`],
+    correctAnswer: `20`,
+    bibleText: ` John 20 `,
+  },
+
+  {
+    // Question 75
+    question: `Who came to see Jesus night?`,
+    answers: [`The Centurion`, `John`, `Nicodemus`, `Zacheus`],
+    correctAnswer: `Nicodemus`,
+    bibleText: ` John 3 :2 `,
+  },
+  {
+    // Question 76
+    question: `Jesus met the Samaritan woman at which well?`,
+    answers: [`Abraham`, `Isaac`, `Jacob`, `David`],
+    correctAnswer: `Jacob`,
+    bibleText: ` John 4 : 6 `,
+  },
+  {
+    // Question 77
+    question: `The pool of Bethesda is located where?`,
+    answers: [`Judea`, `Jerusalem`, `Samaria`, `Galilee`],
+    correctAnswer: `Jerusalem`,
+    bibleText: ` John 5 :1 `,
+  },
+  {
+    // Question 78
+    question: `Who was Simon Peter's brother?`,
+    answers: [`John`, `judas`, `Andrew`, `James`],
+    correctAnswer: `Andrew`,
+    bibleText: ` John 6 :8`,
+  },
+
+  {
+    // Question 79
+    question: `What was the other name of Thomas?`,
+    answers: [`Didomas`, `Didymos`, `Didymas`, `Didymus`],
+    correctAnswer: `Didymus`,
+    bibleText: ` John 11 :16 `,
+  },
+  {
+    // Question 80
+    question: `Who was released in exchange for Jesus?`,
+    answers: [`Bernabba`, `Bahabas`, `Barnabas`, `Barabbas`],
+    correctAnswer: `Barabbas`,
+    bibleText: ` John 18 :40 `,
+  },
 ];
