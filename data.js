@@ -22,10 +22,10 @@ export const QUESTIONS = [
   },
   {
     // Question 4
-    question: `Who is NOT currently in heaven with God?`,
-    answers: [`Enoch`, `Elijah`, `Moses`, `Solomon`],
+    question: `Who lodged the spies in Jericho?`,
+    answers: [`Leah`, `Rehab`, `Mariam`, `Jezebel`],
     correctAnswer: `Solomon`,
-    bibleText: `Genesis 5:23-24; Matthew 17:3`,
+    bibleText: `Joshua 2:1`,
   },
   {
     // Question 5
@@ -668,5 +668,88 @@ export const QUESTIONS = [
     answers: [`Bernabba`, `Bahabas`, `Barnabas`, `Barabbas`],
     correctAnswer: `Barabbas`,
     bibleText: ` John 18 :40 `,
+  },
+
+  {
+    // Question 81
+    question: `Complete this Jesus statement: Sanctify them by the truth; your ____________ is truth`,
+    answers: [`Grace`, `Sword`, `Word`, `Light`],
+    correctAnswer: `Word`,
+    bibleText: ` Johh 17 : 17 `,
+  },
+
+  {
+    // Question 82
+    question: `What is the meaning of Golgotha?  Place of  _______`,
+    answers: [`Pain`, `Skin`, `Skull`, `Scalp`],
+    correctAnswer: `Skull`,
+    bibleText: ` John 19 : 7 `,
+  },
+
+  {
+    // Question 83
+    question: `The garment of Jesus was divided into ________`,
+    answers: [`2`, `3`, `4`, `5`],
+    correctAnswer: `4`,
+    bibleText: ` John 19 : 23 `,
+  },
+
+  {
+    // Question 84
+    question: `Who was released in exchange for Jesus?`,
+    answers: [`Bernabba`, `Bahabas`, `Barnabas`, `Barabbas`],
+    correctAnswer: `Barabbas`,
+    bibleText: ` John 18 :40 `,
+  },
+
+  {
+    // Question 85
+    question: `Who built a city named Enoch?`,
+    answers: [`Seth`, `Adam`, `Cain`, `Abel`],
+    correctAnswer: `Cain`,
+    bibleText: ` Genesis 4 :17 `,
+  },
+  {
+    // Question 86
+    question: `Who was Keturah?`,
+    answers: [
+      `The wife of Esau`,
+      `The wife of Abraham`,
+      `The wife of Jacob`,
+      `The wife of Isaac`,
+    ],
+    correctAnswer: `Abraham`,
+    bibleText: ` Genesis 25 :1 `,
+  },
+
+  {
+    // Question 87
+    question: `Which one of the following is not one of Jacob's sons?`,
+    answers: [`Reuben`, `Joseph`, `Zebulum`, `Naphtali`],
+    correctAnswer: `Daniel`,
+    bibleText: ` Genesis 35 :23-26 `,
+  },
+  {
+    // Question 88
+    question: `The name of the tribe appointed over the care of the terbanacle is?`,
+    answers: [`Reuben`, `Zebullum`, `Judah`, `Levi`],
+    correctAnswer: `Levi`,
+    bibleText: ` Numbers 1 :50 `,
+  },
+
+  {
+    // Question 89
+    question: `Who was Joshua father?`,
+    answers: [`Jethro`, `Nun`, `Moses`, `Aaron`],
+    correctAnswer: `Nun`,
+    bibleText: ` Joshua 1 :1 `,
+  },
+
+  {
+    // Question 90
+    question: `How many spies did Joshua send to Jericho?`,
+    answers: [`3`, `10`, `2`, `12`],
+    correctAnswer: `2`,
+    bibleText: ` Joshua 2 :1 `,
   },
 ];
