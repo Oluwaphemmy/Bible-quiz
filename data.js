@@ -752,4 +752,84 @@ export const QUESTIONS = [
     correctAnswer: `2`,
     bibleText: ` Joshua 2 :1 `,
   },
+
+  {
+    // Question 91
+    question: `How many years did the children of Isreal walk in the wilderness?`,
+    answers: [`40 years`, `50 years`, `60 years`, `45 years`],
+    correctAnswer: `40 years`,
+    bibleText: ` Joshua 5 : 16 `,
+  },
+
+  {
+    // Question 92
+    question: `Who took the devoted things of the lord in the camp of IIsreal?`,
+    answers: [`Kiriath`, `Eleaxer`, `Issacha`, `Achan`],
+    correctAnswer: `Achan`,
+    bibleText: ` Joshua 7 :1 `,
+  },
+
+  {
+    // Question 93
+    question: `Where was the bones of Joseph buried?`,
+    answers: [`Jericho`, `Gilgar`, `Nahor`, `Shechem`],
+    correctAnswer: `Sheshem`,
+    bibleText: ` Joshua 24 : 32 `,
+  },
+
+  {
+    // Question 94
+    question: `How many days did the children of Isreal marched around Jericho?`,
+    answers: [`10 days`, `9 days`, `7 days`, `6 days`],
+    correctAnswer: ` 6 days`,
+    bibleText: ` Joshua 6 : 14 `,
+  },
+
+  {
+    // Question 95
+    question: `Who was the father of Ishbosheth?`,
+    answers: [`Solomon`, `Johnathan`, `David`, `Saul`],
+    correctAnswer: `Saul`,
+    bibleText: ` 2 Samuel 2 : 10 `,
+  },
+
+  {
+    // Question 96
+    question: `Who was the first born of David?`,
+    answers: [`Solomon`, `Adonijah`, `Amnon`, `Absalom`],
+    correctAnswer: `Amnon`,
+    bibleText: ` 2 Samuel 3 : 2 `,
+  },
+
+  {
+    // Question 97
+    question: `Who was the father of Mephibosheth?`,
+    answers: [`Solomon`, `Johnathan`, `David`, `Ishbosheth`],
+    correctAnswer: `Johnathan`,
+    bibleText: ` 2 Samuel 4 : 5 `,
+  },
+
+  {
+    // Question 98
+    question: `How old was David when he was crowned king?`,
+    answers: [`25`, `40`, `30`, `35`],
+    correctAnswer: `30`,
+    bibleText: ` 2 Samuel 5 : 4 `,
+  },
+
+  {
+    // Question 99
+    question: `The ark of the lord was taken to the house of who?`,
+    answers: [`Abijah`, `Jephthar`, `Obed-Edom`, `Jabez`],
+    correctAnswer: `Obed-Edom`,
+    bibleText: ` 2 Samuel 6 :8 `,
+  },
+
+  {
+    // Question 100
+    question: `Ahithophel was David's _______ ?`,
+    answers: [`Butler`, `Chef`, `Recorder`, `Counselor`],
+    correctAnswer: `Counselor`,
+    bibleText: ` 2 Samuel 5 : 31 `,
+  },
 ];
