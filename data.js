@@ -832,4 +832,84 @@ export const QUESTIONS = [
     correctAnswer: `Counselor`,
     bibleText: ` 2 Samuel 5 : 31 `,
   },
+
+  {
+    // Question 101
+    question: `1 Samuel is after which book of the bible ?`,
+    answers: [`Judges`, `Ruth`, `2 Chronicles`, `2 Kings`],
+    correctAnswer: `Ruth`,
+    bibleText: ` 1 Samuel 1: 1 `,
+  },
+
+  {
+    // Question 102
+    question: `Who was the father of Samuel ?`,
+    answers: [`Elkanah`, `Jesse`, `Gerar`, `Gibeon`],
+    correctAnswer: `Elkanah`,
+    bibleText: ` 1 Samuel 1 : 1 `,
+  },
+
+  {
+    // Question 103
+    question: `How many times did the lord call Samuel?`,
+    answers: [`twice`, `Thrice`, `Once`, `4 times`],
+    correctAnswer: `4 times`,
+    bibleText: ` 1 Samuel 3  : 8-10 `,
+  },
+
+  {
+    // Question 104
+    question: `How old was Saul when he became king?`,
+    answers: [`33 years`, `35 years`, `30 years`, `40 years`],
+    correctAnswer: `30 years`,
+    bibleText: ` 1 Samuel 13:1 `,
+  },
+
+  {
+    // Question 105
+    question: `Where was Goliathe from?`,
+    answers: [`Philipi`, `Philistine`, `Philimon`, `Ehesus`],
+    correctAnswer: `Philistine`,
+    bibleText: ` 1 Samuel 17: 23 `,
+  },
+
+  {
+    // Question 106
+    question: `Who became the king of Isreal after David?`,
+    answers: [`Jehosaphat`, `Ahab`, `Solomon`, `Jerobaom`],
+    correctAnswer: `Solomon`,
+    bibleText: ` 1 kings 2 : 12 `,
+  },
+
+  {
+    // Question 107
+    question: `What was the name of the Queen that visited Solomon?`,
+    answers: [`Queen Deborah`, `Queen Mariam`, `Queen Sheba`, `Queen Amiral`],
+    correctAnswer: `Queen Sheba`,
+    bibleText: ` 1 kings 10 :1 `,
+  },
+
+  {
+    // Question 108
+    question: `Solomon had how many wives?`,
+    answers: [`300`, `500`, `700`, `900`],
+    correctAnswer: `700`,
+    bibleText: ` 1 kings 11 :3 `,
+  },
+
+  {
+    // Question 109
+    question: `Who became Isreal king after king Solomon?`,
+    answers: [`Rehoboam`, `Jeroboam`, `Ahab`, `Hezekiah`],
+    correctAnswer: `Rehoboam`,
+    bibleText: ` 1 kings 11 : 43 `,
+  },
+
+  {
+    // Question 110
+    question: `Where was Elijah from?`,
+    answers: [`Judea`, `Jerusalem`, `Tishebe`, `Jericho`],
+    correctAnswer: `Tishebe`,
+    bibleText: ` 1 kings 17 :1 `,
+  },
 ];
