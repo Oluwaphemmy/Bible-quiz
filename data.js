@@ -912,4 +912,132 @@ export const QUESTIONS = [
     correctAnswer: `Tishebe`,
     bibleText: ` 1 kings 17 :1 `,
   },
+
+  {
+    // Question 111
+    question: `Who was the mother of Rehoboam?`,
+    answers: [`Naamah`, `Elizabeth`, `Abigail`, `Bathshebah`],
+    correctAnswer: `Naamah`,
+    bibleText: ` 1 kings 14 :21 `,
+  },
+
+  {
+    // Question 112
+    question: `Who became the next king after Rehoboam?`,
+    answers: [`Adonijah`, `Abijah`, `Abiram`, `Abijam`],
+    correctAnswer: `Abijam`,
+    bibleText: ` 1 kings 14 :31 `,
+  },
+
+  {
+    // Question 113
+    question: `Who was the wife of Ahab?`,
+    answers: [`Vasthti`, `Jerusha`, `Jecoliah`, `Jezebel`],
+    correctAnswer: `Jezebel`,
+    bibleText: ` 1 kings 16 :31 `,
+  },
+
+  {
+    // Question 114
+    question: `What was the name of the birds that God sent to feed Elijah?`,
+    answers: [`Hawk`, `Dove`, `Ravens`, `Eagle`],
+    correctAnswer: `Ravens`,
+    bibleText: ` 1 kings 17 :6 `,
+  },
+
+  {
+    // Question 115
+    question: `What was the name of the mountain that prophet Elijah challenged Ahab to?`,
+    answers: [`Camel`, `Sinai`, `Tabor`, `Zion`],
+    correctAnswer: `Camel`,
+    bibleText: ` 1 kings 18 :17 `,
+  },
+
+  {
+    // Question 116
+    question: `Who rebelled against Isreal after king Ahabs death?`,
+    answers: [`Nahor`, `Eli`, `Elijah`, `Moab`],
+    correctAnswer: `Moab`,
+    bibleText: ` 2kings 1:1 `,
+  },
+
+  {
+    // Question 117
+    question: `Who did Ahaziah consult when he had an injury?`,
+    answers: [`Tor`, `Baal-Zebub`, `Og`, `Shion`],
+    correctAnswer: `Baal-Zebub`,
+    bibleText: ` 2kings 1:2 `,
+  },
+
+  {
+    // Question 118
+    question: `How many men went in search for Elijah when he eas taken to heaven?`,
+    answers: [`40`, `30`, `50`, `20`],
+    correctAnswer: `50`,
+    bibleText: ` 2kings 2:17 `,
+  },
+
+  {
+    // Question 119
+    question: `Who was the father of Elisha?`,
+    answers: [`Elijah`, `Shaphat`, `Nebat`, `Kish`],
+    correctAnswer: `Shaphat`,
+    bibleText: ` 2kings 3:11 `,
+  },
+
+  {
+    // Question 200
+    question: `What was the name of Elisha's servant?`,
+    answers: [`Jael`, `Naaman`, `Elijah`, `Gehazi`],
+    correctAnswer: `Gehazi`,
+    bibleText: ` 2kings 4:12 `,
+  },
+
+  {
+    // Question 201
+    question: `Naaman suffered from what?`,
+    answers: [`Leprosy`, `Blindness`, `Dermatitis`, `Deafness`],
+    correctAnswer: `Leprosy`,
+    bibleText: ` 2kings 5:1 `,
+  },
+
+  {
+    // Question 202
+    question: `How many times was Naaman asked to dip in the river?`,
+    answers: [`7`, `8`, `9`, `3`],
+    correctAnswer: `7`,
+    bibleText: ` 2kings 5:9 `,
+  },
+
+  {
+    // Question 203
+    question: `How old was Joash when he began to rule?`,
+    answers: [`7`, `8`, `9`, `12`],
+    correctAnswer: `7`,
+    bibleText: ` 2kings 11:21 `,
+  },
+
+  {
+    // Question 204
+    question: `Whose tomb brought a dead man to life?`,
+    answers: [`Ezekiel`, `Eli`, `Elijah`, `Elisha`],
+    correctAnswer: `Elisha`,
+    bibleText: ` 2kings 13:21 `,
+  },
+
+  {
+    // Question 205
+    question: `How many elsers sat around the throne of heaven?`,
+    answers: [`30`, `20`, `24`, `23`],
+    correctAnswer: `24`,
+    bibleText: ` Revelation 4 :4 `,
+  },
+
+  {
+    // Question 206
+    question: `Who rebelled against Isreal after king Ahabs death?`,
+    answers: [`Nahor`, `Eli`, `Elijah`, `Moab`],
+    correctAnswer: `Moab`,
+    bibleText: ` 2kings 1:1 `,
+  },
 ];
