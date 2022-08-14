@@ -1,2 +1,2 @@
 # Bible quiz
- A bible quiz web app for a teens competiton
+ A bible quiz web app to test a teenager's bible knowledge.
